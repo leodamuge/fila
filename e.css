@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     background-color: #fe6902;
 }
 
@@ -41,4 +42,15 @@ body{
 .fl{height: 60px;width: 100px; padding-left: 40px;
     background-color: #fe6902; color: white;
 }
+
+.footer {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 10px;
+}
+
+marquee{
+  font-weight: bolder; font-size: 14pt; color:#fe6902;
+}
+
 
