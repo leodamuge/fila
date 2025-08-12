@@ -1,5 +1,5 @@
 body{
-    background-color: orange;
+    background-color: #fe6902;
 }
 
 
@@ -32,7 +32,13 @@ body{
 .tb{color: black; text-align: center; font-weight: bold; font-size: 14pt;}
 .tp{color: white; text-align: center; font-weight: bold; font-size: 14pt;}
 
-.fp{margin-left: 50px;width: 500px;}
-.fb{padding:2px; width: 450px;}
-.fl{height: 60px;width: 100px; padding-left: 40px;}
+.fp{margin-left: 50px;width: 500px;
+    background-color: black; color: white;
+}
+.fb{padding:2px; width: 450px;
+    background-color: white; color: black;
+}
+.fl{height: 60px;width: 100px; padding-left: 40px;
+    background-color: #fe6902; color: white;
+}
 
