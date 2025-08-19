@@ -53,4 +53,14 @@ marquee{
   font-weight: bolder; font-size: 14pt; color:#fe6902;
 }
 
+.fp :hover{
+  color: #fe6902;
+  
+}
+
+.fl :hover{
+  color: black;
+}
+
+
 
