@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: #fe6902;
+    background-color: #d1005d;
 }
 
 
@@ -40,7 +40,7 @@ body{
     background-color: white; color: black;
 }
 .fl{height: 60px;width: 100px; padding-left: 40px;
-    background-color: #fe6902; color: white;
+    background-color: #d1005d; color: white;
 }
 
 .footer {
@@ -50,11 +50,11 @@ body{
 }
 
 marquee{
-  font-weight: bolder; font-size: 14pt; color:#fe6902;
+  font-weight: bolder; font-size: 14pt; color:#d1005d;
 }
 
 .fp :hover{
-  color: #fe6902;
+  color: #d1005d;
   
 }
 
